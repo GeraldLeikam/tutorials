@@ -25,3 +25,7 @@
 
    ![images](/images/hetzner_create_windows_server_2022_active_directory_snapshots.png)
 
+6. Select th Server Type (recommended is CX41)
+
+   ![image](/images/hetzner_create_windows_server_2022_active_directory_server_type.png)
+
