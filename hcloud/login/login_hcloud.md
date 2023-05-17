@@ -16,4 +16,6 @@
 
    ![image](https://github.com/GeraldLeikam/tutorials/blob/master/hcloud/login/images/hetzner_hcloud_login_mask.png)
 
-Now you should be logged in to hcloud and see Hetzner Cloud Console Projects Page  
+5. Now you should be logged in to hcloud and see Hetzner Cloud Console Projects Page
+
+   ![image](https://github.com/GeraldLeikam/tutorials/blob/master/hcloud/login/images/hetzner_cloud_console.png)
