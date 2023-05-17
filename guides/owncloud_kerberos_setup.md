@@ -6,3 +6,5 @@
 * Windows Client (in our case another Windows Server 2022)
 * ownCloud Server (Server with Ubuntu 20.04)
 
+## Install and Configure Windows Active Directory
+    1. [Setup an Windows Server in Hetzner]
