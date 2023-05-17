@@ -31,8 +31,8 @@
 
 7. Make sure that Public IPv4 and IPv6 is selected and select Private networks
 
-   ![image]()
+   ![image](/images/hetzner_create_windows_server_2022_active_directory_networking.png)
 
 8. Select a private network for the Windows Active Directory. (The private network is for the actual communication of the servers that belong to the Windows Active Directory. If no private network is chosen, the communication of the servers must take place over the internet, which means that all communication must be encrypted. Also, for unencrypted communication, ports are opened on the server, which could result in an abuse message from the BSI. Therefore, a private network that is isolated from the public internet should always be used for Active Directory communication.)
 
-   ![image]()
+   ![image](/images/hetzner_create_windows_server_2022_active_directory_networking_private_network.png)
