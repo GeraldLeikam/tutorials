@@ -8,5 +8,6 @@
 
    ![Hetzner Startpage](https://github.com/GeraldLeikam/tutorials/blob/master/hcloud/login/images/hetzner_startpage_login_button.png)
 
-    
-    
+3. select Cloud
+
+   ![Hetzner Startpage](https://github.com/GeraldLeikam/tutorials/blob/master/hcloud/login/images/hetzner_startpage_login_hcloud_button.png)
