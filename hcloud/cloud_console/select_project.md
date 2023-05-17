@@ -11,4 +11,4 @@
 
 3. Now you should see the details of your selected project
 
-   ![image](https://github.com/GeraldLeikam/tutorials/blob/master/hcloud/cloud_console/images/hetzner_project_overview.png)
+   ![image](https://github.com/GeraldLeikam/tutorials/blob/master/hcloud/cloud_console/images/hcloud_project_overview.png)
