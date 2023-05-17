@@ -1,2 +1,2 @@
 ## recently added
-* guides/owncloud_kerberos-setup.md
+* [owncloud_kerberos-setup](https://confluence.owncloud.com/display/~gleikam/ownCloud+Kerberos+Setup)
