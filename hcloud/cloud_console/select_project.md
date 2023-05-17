@@ -11,4 +11,4 @@
 
 3. Now you should see the details of your selected project
 
-   ![image](/images/hcloud_project_overview.png)
+   ![image](/images/hetzner_hcloud_project_overview.png)
