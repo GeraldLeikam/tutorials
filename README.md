@@ -6,7 +6,7 @@
 ## Owncloud
 * #### [Kerberos Login Setup]
 
-# 
+ 
 # Tutorials by Date
 
   ### 22.05.2023
