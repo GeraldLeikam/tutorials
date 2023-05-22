@@ -2,21 +2,11 @@
   * [Kerberos Login Setup]
 
 # All Tutorials
-<details>
-    <summary>ownCloud</summary>
-    <blockquote>
-    <details>
-      <summary>Installation</summary>
-    </details>
-    <details>
-      <summary>Kerberos</summary>
-
-  * [Kerberos Login Setup]
-    </details>
-    </blockquote>
-</details>
+## Owncloud
+* #### [Kerberos Login Setup]
 
 # Tutorials by adding Date
+
   ## 22.05.2023
   * [nothing]
 
