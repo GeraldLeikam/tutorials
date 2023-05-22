@@ -11,7 +11,7 @@
       <summary>How do I dropdown?</summary>
       <br>
 
-      !!!include(/guides/owncloud_kerberos_setup.md)!!!
+      :[owncloud kerberos setup][/guides/owncloud_kerberos_setup.md]
 
     </details>
 
