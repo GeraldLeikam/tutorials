@@ -10,7 +10,9 @@
     <details>
       <summary>How do I dropdown?</summary>
       <br>
+   
       ![image](/images/hetzner_hcloud_project_overview.png)
+
     </details>
     
 
