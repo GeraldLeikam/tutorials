@@ -2,7 +2,7 @@
 
 ## Prerequisites
 * 1 Server with Windows Server 2022 installed
-* A FQDN witch points to the Windows Server on Hetzner hcloud
+* A FQDN which points to the Windows Server on Hetzner hcloud
 
 ## Create Server on Hetzner hcloud
 1. Go to the Project where the Active Directory should be build
