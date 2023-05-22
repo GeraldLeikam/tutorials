@@ -7,6 +7,3 @@
 * [ownCloud Kerberos Setup](https://github.com/GeraldLeikam/tutorials/blob/master/guides/owncloud_kerberos_setup.md)
 * [build active directory server on hetzner](https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows_server_2022/build_active_directory_on_hetzner.md)
 
-## demo
-* [google](https://google.de)
-* [cults3d](https://cults3d.com)
