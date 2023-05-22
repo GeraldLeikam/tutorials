@@ -10,11 +10,12 @@
     <details>
       <summary>How do I dropdown?</summary>
       <br>
-   
-      ![image](/images/hetzner_hcloud_project_overview.png)
+
+      !!!include(/guides/owncloud_kerberos_setup.md)!!!
 
     </details>
-    
+
+   ![image](/images/hetzner_hcloud_project_overview.png)
 
 2. Click "Add Server"
 
