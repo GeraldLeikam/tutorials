@@ -17,19 +17,12 @@
 </details>
 
 # Tutorials by adding Date
+  ## 22.05.2023
+  * [nothing]
 
-<details>
-  <summary>22.05.2023</summary>
-  
-* [nothing]
-</details>
+  ## 18.05.2023
+  * [Kerberos Login Setup]
 
-<details>
-  <summary>18.05.2023</summary>
-
-* [Kerberos Login Setup]
-* [build active directory server on hetzner]
-</details>
 
 
 [nothing]: https://github.com/GeraldLeikam/tutorials/blob/master/
