@@ -7,7 +7,12 @@
 ## Create Server on Hetzner hcloud
 1. Go to the Project where the Active Directory should be build
 
-    ![image](/images/hetzner_hcloud_project_overview.png)
+    <details>
+      <summary>How do I dropdown?</summary>
+      <br>
+      ![image](/images/hetzner_hcloud_project_overview.png)
+    </details>
+    
 
 2. Click "Add Server"
 
