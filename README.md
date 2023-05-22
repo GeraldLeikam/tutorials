@@ -1,12 +1,23 @@
-# All
-* [build active directory server on hetzner]
-* [ownCloud Kerberos Setup]
 
-## [22.05.2023]
+<details>
+    <summary>ownCloud</summary>
+    <blockquote>
+    <details>
+      <summary>Installation</summary>
+    </details>
+    <details>
+      <summary>Kerberos</summary>
 
-## [17.05.2023]
-* [ownCloud Kerberos Setup]
+* [Kerberos Login Setup]
+    </details>
+    </blockquote>
+</details>
+
+#### [22.05.2023]
+
+#### [17.05.2023]
+* [Kerberos Login Setup]
 * [build active directory server on hetzner]
 
 [build active directory server on hetzner]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows_server_2022/build_active_directory_on_hetzner.md
-[ownCloud Kerberos Setup]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/owncloud_kerberos_setup.md
+[Kerberos Login Setup]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/ownCloud/kerberos/login_setup.md
