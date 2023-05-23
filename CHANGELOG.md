@@ -1,8 +1,7 @@
-## All Tutorials
-### ubuntu / mint
+### 22.05.2023
 * #### [nothing]
 
-### ownCloud
+### 18.05.2023
 * #### [Kerberos Login Setup]
 
 [nothing]: https://github.com/GeraldLeikam/tutorials/blob/master
