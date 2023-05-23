@@ -4,9 +4,8 @@
 #
 
 # All Tutorials
-
-    * ### ubuntu / mint
-        * #### [nothing]
+### ubuntu / mint
+* #### [nothing]
 
 ### ownCloud
 * #### [Kerberos Login Setup]
