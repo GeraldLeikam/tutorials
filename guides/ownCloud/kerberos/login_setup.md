@@ -1,4 +1,4 @@
-# How to set up ownCloud with Kerberos authentication on hCloud
+# How to set up Kerberos authentication for ownCloud
 
 ## Prerequisites
 * Windows Server with Active Directory (Windows Server 2022)
@@ -7,4 +7,8 @@
 * ownCloud Server (Server with Ubuntu 20.04)
 
 ## Install and Configure Windows Active Directory
-    1. [Setup an Windows Server in Hetzner]
+1. Install onwCloud Server
+2. Install and configure ldap app
+3. Install and configure kerberos app
+
+
