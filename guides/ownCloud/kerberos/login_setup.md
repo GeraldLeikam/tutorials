@@ -13,16 +13,13 @@
 4. [Update Windows]
 5. [Change computer name]
 6. [Disable IPV6 connectivity]
-7. Change DNS Server
-8. Add Role "Active Directory Domain Services"
-9. Promote Server to Active Directory Domain Server
-10. Add Users and Admins
-11. Create Service User
-    * New user "krb5httpoc" (for example) -> password never expired
-    * Create keytab file for the account in windows cmd shell
-    ```cmd
-    ktpass /princ HTTP/ocserver.oc.com@OCSERVER.OC.COM /mapuser krb5httpoc +rndPass /out ocserver.oc.com.keytab /crypto all /ptype KRB5_NT_PRINCIPAL /mapop set
-    ```
+7. [Change DNS Server]
+8. [Add Role "Active Directory Domain Services"]
+9. [Promote Server to Active Directory Authority]
+10. [Create Users, Groups and Admins]
+11. Add the created users to the created groups
+12. Create Service User
+    
 
 
 
@@ -42,3 +39,6 @@
 [Change computer name]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/change_computer_name.md
 [Disable IPV6 connectivity]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/disable_ipv6_connectivity.md
 [Change DNS Server]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/change_dns_server.md
+[Add Role "Active Directory Domain Services"]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/install_active_directory_role.md
+[Promote Server to Active Directory Authority]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/promote_server_to_active_directory.md
+[Create Users, Groups and Admins]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/create_users_groups_admins.md
