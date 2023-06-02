@@ -18,9 +18,12 @@
 12. Select a firewall for the Windows Server. This firewall should block everything except port 3389 for incoming traffic. If you don't have a firewall, please create one as in the guide [add a firewall to your project]. A firewall can also be added to the server manually or by label without any problems
 13. Check the "Backup" box if you want regular backups of your server to be made. This feature comes with a cost. Usually, we do not use this feature.
 14. If you want to add your server to a placement group, please select one or create one as in the guide [create a placement group]. Please note that a server can also be added to a placement group later. However, the server must be shut down and turned off to add it to a group
+15. Add your labels to the server. For more information on labels, please refer to the guide [hetzner labels]
+
 
 [create a private network]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/create_a_private_network.md
 [add a ssh key to your Hetzner project]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/add_ssh_key_to_project.md
 [add a volume while server creation to server]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/add_a_volume_while_server_creation_to_server.md
 [add a firewall to your project]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/add_a_firewall_to_project.md
 [create a placement group]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/add_a_placement_group_to_project.md
+[hetzner labels]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/labels_and_how_to_use_it.md
