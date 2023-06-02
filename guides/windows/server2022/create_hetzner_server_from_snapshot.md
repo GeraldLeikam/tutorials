@@ -19,7 +19,11 @@
 13. Check the "Backup" box if you want regular backups of your server to be made. This feature comes with a cost. Usually, we do not use this feature.
 14. If you want to add your server to a placement group, please select one or create one as in the guide [create a placement group]. Please note that a server can also be added to a placement group later. However, the server must be shut down and turned off to add it to a group
 15. Add your labels to the server. For more information on labels, please refer to the guide [hetzner labels]
-
+16. Please ignore the "Cloud config" section. This is not required for the creation of a Windows Server 2022 from a snapshot
+17. Finally, assign a name to your server and enter it in the "Name" field.
+18. Before you click on "Create & Buy now", go through all the settings again and make sure they are as described in this guide
+19. Click "Create & Buy now"
+20. Wait until the server has been created. Go and get yourself a coffee. This can take between 5-10 minutes.
 
 [create a private network]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/create_a_private_network.md
 [add a ssh key to your Hetzner project]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/add_ssh_key_to_project.md
