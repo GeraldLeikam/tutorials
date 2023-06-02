@@ -38,7 +38,7 @@
 [Create a server at Hetzner Cloud using the Windows Server 2022 snapshot]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/create_hetzner_snapshot.md
 [Setup Windows (Console on Hetzner webpage)]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/finish_setup_hetzner_webconsole.md
 [Setup RDP connection via Remmina (optional)]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/setup_rdp_remmina.md
-[Update Windows]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/update.md
+[Update Windows]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/update_windows.md
 [Change computer name]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/change_computer_name.md
 [Disable IPV6 connectivity]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/disable_ipv6_connectivity.md
 [Change DNS Server]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/change_dns_server.md
