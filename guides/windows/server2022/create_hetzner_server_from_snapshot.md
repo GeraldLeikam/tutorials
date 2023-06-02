@@ -13,5 +13,8 @@
 7. Choose the server type of the server to be created (a server of the type CX31 is recommended)
 8. Ensure that in the Network section, IPv4 and IPv6 are activated
 9. Check the "Private networks" option and select the network to which the server should be added. If there is no private network for the server, create one. If you don't know how, refer to the guide [create a private network]. This will be used for communication of the servers in the Active Directory, as well as the owncloud with the Active Directory. Care should be taken that any communication of the Active Directory runs over an interface separate from the Internet.
+10. Select at least one SSH key, even though Windows does not support SSH login. If no SSH key is selected, Hetzner will create a password for the server and send it by email. However, these emails are not received by you, but by our admin team, which is not very pleased with the recurring emails. Moreover, under Linux you would have no possibility to connect to the server via ssh as you don't have a password. If there is no SSH key in the project, add a valid SSH key. If you don't know how, please refer to the guide [add a ssh key to your Hetzner project].
+
 
 [create a private network]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/create_a_private_network.md
+[add a ssh key to your Hetzner project]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/hetzner/add_ssh_key_to_project.md
