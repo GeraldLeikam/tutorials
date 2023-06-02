@@ -1,0 +1,1 @@
+# Windows Server 2022 - Disable ipv6 connectivity
