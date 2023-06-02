@@ -36,9 +36,9 @@
 [Setup Windows (Console on Hetzner webpage)]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/finish_setup_hetzner_webconsole.md
 [Setup RDP connection via Remmina (optional)]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/setup_rdp_remmina.md
 [Update Windows]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/update_windows.md
-[Change computer name]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/change_computer_name.md
-[Disable IPV6 connectivity]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/disable_ipv6_connectivity.md
-[Change DNS Server]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/change_dns_server.md
-[Add Role "Active Directory Domain Services"]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/install_active_directory_role.md
-[Promote Server to Active Directory Authority]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/promote_server_to_active_directory.md
-[Create Users, Groups and Admins]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/create_users_groups_admins.md
+[Change computer name]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/change_computer_name.md
+[Disable IPV6 connectivity]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/disable_ipv6_connectivity.md
+[Change DNS Server]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/change_dns_server.md
+[Add Role "Active Directory Domain Services"]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/install_active_directory_role.md
+[Promote Server to Active Directory Authority]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/promote_server_to_active_directory.md
+[Create Users, Groups and Admins]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/create_users_groups_admins.md
