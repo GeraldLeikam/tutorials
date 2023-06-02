@@ -1,0 +1,1 @@
+# Setup of a server at Hetzner Cloud using a snapshot.
