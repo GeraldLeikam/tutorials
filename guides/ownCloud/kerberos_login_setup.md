@@ -1,5 +1,4 @@
-# How to set up Kerberos authentication for ownCloud
-
+# How to set up Kerberos authentication for ownCloud [WIP]
 ## Prerequisites
 * Windows Server with Active Directory (Windows Server 2022)
 * Windows Server with WND Service (Windows Server 2022)
@@ -32,7 +31,7 @@
 
 
 
-[Create a server at Hetzner Cloud using the Windows Server 2022 snapshot]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/create_hetzner_snapshot.md
+[Create a server at Hetzner Cloud using the Windows Server 2022 snapshot]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/create_hetzner_server_from_snapshot.md
 [Setup Windows (Console on Hetzner webpage)]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/finish_setup_hetzner_webconsole.md
 [Setup RDP connection via Remmina (optional)]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/setup_rdp_remmina.md
 [Update Windows]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/update_windows.md
