@@ -8,15 +8,16 @@
 
 ## Install and Configure Windows Active Directory
 1. [Create a server at Hetzner Cloud using the Windows Server 2022 snapshot]
-2. Setup Windows (Console on Hetzner webpage)
-3. Update Windows
-4. Set a new computer name
-5. Disable IPV6
-6. Change DNS Server
-7. Add Role "Active Directory Domain Services"
-8. Promote Server to Active Directory Domain Server
-9. Add Users and Admins
-10. Create Service User
+2. [Setup Windows (Console on Hetzner webpage)]
+3. [Setup RDP connection via Remmina (optional)]
+4. Update Windows
+5. Set a new computer name
+6. Disable IPV6
+7. Change DNS Server
+8. Add Role "Active Directory Domain Services"
+9. Promote Server to Active Directory Domain Server
+10. Add Users and Admins
+11. Create Service User
     * New user "krb5httpoc" (for example) -> password never expired
     * Create keytab file for the account in windows cmd shell
     ```cmd
@@ -35,3 +36,5 @@
 
 
 [Create a server at Hetzner Cloud using the Windows Server 2022 snapshot]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/create_hetzner_snapshot.md
+[Setup Windows (Console on Hetzner webpage)]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/finish_setup_hetzner_webconsole.md
+[Setup RDP connection via Remmina (optional)]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/setup_rdp_remmina.md
