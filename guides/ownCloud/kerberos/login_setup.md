@@ -17,8 +17,8 @@
 8. [Add Role "Active Directory Domain Services"]
 9. [Promote Server to Active Directory Authority]
 10. [Create Users, Groups and Admins]
-11. Add the created users to the created groups
-12. Create Service User
+11. [Add the created users to the created groups]
+12. [Create Service User]
     
 
 
@@ -42,3 +42,5 @@
 [Add Role "Active Directory Domain Services"]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/install_active_directory_role.md
 [Promote Server to Active Directory Authority]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/promote_server_to_active_directory.md
 [Create Users, Groups and Admins]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/create_users_groups_admins.md
+[Add the created users to the created groups]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/add_user_to_group.md
+[Create Service User]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/windows/server2022/create_service_user.md
