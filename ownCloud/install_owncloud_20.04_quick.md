@@ -210,3 +210,14 @@ Make sure the permissions are correct:
 cd /var/www/
 chown -R www-data. owncloud
 ```
+
+To check if you have installed the correct version of ownCloud and that the occ command is working, execute the following:
+```bash
+occ -V
+echo "Your Admin password is: "$sec_admin_pwd
+echo "It's documented at /etc/.sec_admin_pwd.txt"
+echo "Your Database Password is: "$sec_db_pwd
+echo "It's documented at /etc/.sec_db_pwd.txt and in your config.php"
+echo "Your ownCloud is accessable under: "$my_domain
+echo "The Installation is complete."
+```
