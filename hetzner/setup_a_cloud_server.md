@@ -33,3 +33,5 @@ Give the server a meaningful name.
 Please double-check all the provided parameters once again. If everything looks correct, please click on "Create & Buy now."
 ### Finalize
 Wait until your server is created. This should take no longer than a maximum of 3 minutes for a standard image like Ubuntu. If the image was a snapshot, creating the server may take several minutes.
+
+[Hetzner Cloud Account]: https://console.hetzner.cloud/projects
