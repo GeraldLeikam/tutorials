@@ -1,4 +1,4 @@
-# Guide -> Install ownCloud Server on a HcloudServer Full
+# Guide -> Install ownCloud Server on a Hcloud Server Full
  
 ## Step1: Creating a server at Hetzner HCloud
 Create a cloud server at Hetzner hCloud with Ubuntu 20.04 operating system. [Read more about Cloud Server Creation]
