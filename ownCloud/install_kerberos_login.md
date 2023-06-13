@@ -105,5 +105,5 @@ Activate the app using the command:
 [A server with an installed ownCloud server software and SSL certificate]: https://github.com/GeraldLeikam/tutorials/blob/master/ownCloud/install_owncloud_full.md
 [latest release of the Kerberos app]: https://github.com/owncloud/kerberos/tags
 [use scp]: https://github.com/GeraldLeikam/tutorials/blob/master/linux/scp-copy_to_remote.md
-[Using ```scp```]: https://github.com/GeraldLeikam/tutorials/blob/master/linux/scp-copy_to_remote0.md
+[Using ```scp```]: https://github.com/GeraldLeikam/tutorials/blob/master/linux/scp-copy_to_remote.md
 [Using the installed ```ownCloud```]: https://github.com/GeraldLeikam/tutorials/blob/master/ownCloud/upload_a_file_via_webinterface_and_use_it_in_ssh_session.md
