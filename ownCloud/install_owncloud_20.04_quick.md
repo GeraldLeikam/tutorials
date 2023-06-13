@@ -77,7 +77,7 @@ Additional useful tools helpful for debugging:
 ```bash
 apt install -y \
 unzip bzip2 rsync curl jq \
-inetutils-ping  ldap-utils\
+inetutils-ping  ldap-utils \
 smbclient
 ```
 ### Configure Apache

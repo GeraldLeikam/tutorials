@@ -5,8 +5,8 @@ Dieser Guide zeigt wie man auf einem rechner Windows10/11 Bertiebsystem das Wind
 
 ## Step1: Update system
 Update dein windows bertiebsystem auf den neuesten stand.
-
 ### Go to updates
+Geh auf die 
 ![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_go_to_updates.png)
 ### Check for Updates
 ![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_check_for_updates.png)
@@ -15,3 +15,4 @@ Update dein windows bertiebsystem auf den neuesten stand.
 ### Install all updates, including the optional ones
 ![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_install_optional_update.png)
   
+## Step2: Install WSL
