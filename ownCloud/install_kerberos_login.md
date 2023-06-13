@@ -7,9 +7,10 @@
 
 ## Step1: Install and enable kerberos_app
 Download the [latest release of the Kerberos app] from GitHub to your computer.
-Copy the kerberos-X.X.X.tar.gz file to your server (it is recommended to use scp for this).
+Copy the kerberos-X.X.X.tar.gz file to your server (it is recommended to [use scp] for this).
 Log in to your server and navigate to the app.tar.gz file. Unpack the file and move the "app" folder to "/var/www/owncloud/apps-external". Activate the app using the command "occ app:enable appname".
 
 
 [A server with an installed ownCloud server software and SSL certificate]: https://github.com/GeraldLeikam/tutorials/blob/master/ownCloud/install_owncloud_full.md
 [latest release of the Kerberos app]: https://github.com/owncloud/kerberos/tags
+[use scp]: https://github.com/GeraldLeikam/tutorials/blob/master/linux/scp-copy_to_remote.md
