@@ -1,9 +1,6 @@
 ## Changelog
-### 22.05.2023
-* #### [nothing]
+### 13.06.2023
+* #### added [owncloud kerberos login]
 
-### 18.05.2023
-* #### [Kerberos Login Setup]
 
-[nothing]: https://github.com/GeraldLeikam/tutorials/blob/master
-[Kerberos Login Setup]: https://github.com/GeraldLeikam/tutorials/blob/master/guides/ownCloud/kerberos_login_setup.md
+[owncloud kerberos login]: https://github.com/GeraldLeikam/tutorials/blob/master/ownCloud/install_kerberos_login.md
