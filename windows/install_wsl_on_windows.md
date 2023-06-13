@@ -8,5 +8,8 @@ Update dein windows bertiebsystem auf den neuesten stand.
 
 ### Go to updates
 ![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_go_to_updates.png)
-### dummy
+### Check for Updates
 ![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_check_for_updates.png)
+### Restart if needed
+![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_update_restart.png)
+ 
