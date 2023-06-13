@@ -6,24 +6,24 @@
 - A private network in which all 3 servers are located (preferably at Hetzner)
 
 ## Step1: Copy Keytab file to ownCloud Server
-Kopiere die Keytab file von deinem Rechner auf den ownCloud Server. Hierzu gibt es mehrere wege. 
+To copy the keytab file from your computer to the ownCloud server, you have the following options: 
 
-Zum kopieren haben wir folgende Möglichkeiten:
 - #### [Using the installed ```ownCloud```]
 - #### [Using ```scp```]
-- #### über sftp mit fileZilla
+- #### using sftp with fileZilla
 
-## Step1: Install recommended packages for kerberos
-Downloade und Installiere die folgenden für kerberos benötigten Packete
+Copy the file to the folder ```/etc/apache```
+## Step2: Install recommended packages for kerberos
+Download and install the following packages required for Kerberos:
 ```bash
 apt install -y libkrb5-dev krb5-user msktutil
 ```
-## Step2: Add kerberos host to hosts file
-Setze den Eintrag in die hosts Datei mit folgendem Kommando. Ersetze vorher <<KERBEROS_HOST_IP>> und <<KERBEROS_HOST_DOMAIN>> durch deine eingene daten.
+## Step3: Add kerberos host to hosts file
+To set the entry in the hosts file, use the following command, replacing ```<<KERBEROS_HOST_IP>>``` and ```<<KERBEROS_HOST_DOMAIN>>``` with your own data:
 ```bash
 sed -i "11i<<KERBEROS_HOST_IP>> <<KERBEROS_HOST_DOMAIN>>\n" /etc/hosts
 ```
-Deine hosts datei sollte danach in etwa so aussen:
+After setting the entry in the hosts file, it should look something like this:
 ```bash
 root@oc01:/# cat /etc/hosts
 # Your system has configured 'manage_etc_hosts' as True.
@@ -43,8 +43,9 @@ root@oc01:/# cat /etc/hosts
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ```
-## Step3: Create krb5 conf file
-Um die konfigurationsdatei für krb5 zu erstellen nutze folgendes kommando nachdem du deine daten eingraten hast.
+## Step4: Create krb5 conf file
+To create the configuration file for krb5, use the following command after entering your data:
+Please replace ```<<your.domain.name>>``` - ```<<your.Active.Directory.Server>>``` 
 ```bash
 /bin/cat <<EOM >"/etc/krb5.conf"
 [libdefaults]
@@ -87,7 +88,7 @@ EOM
 }
 ```
 
-## Step1: Install and enable kerberos_app
+## Step5: Install and enable kerberos_app
 Download the [latest release of the Kerberos app] from GitHub to your computer.
 
 Copy the kerberos-X.X.X.tar.gz file to your server (it is recommended to [use scp] for this).
