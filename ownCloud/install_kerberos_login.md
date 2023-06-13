@@ -85,7 +85,7 @@ Please replace ```<<your.domain.name>>``` - ```<<your.Active.Directory.Server>>`
 [domain_realm]
         .<<your.domain.name>> = <<your.domain.name>>
 EOM
-}
+
 ```
 
 ## Step5: Install and enable kerberos_app
