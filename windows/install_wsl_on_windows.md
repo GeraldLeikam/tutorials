@@ -13,5 +13,5 @@ Update dein windows bertiebsystem auf den neuesten stand.
 ### Restart if needed
 ![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_update_restart.png)
 ### Install all updates, including the optional ones
-![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_update_restart.png)
+![Image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/windows_11_install_optional_update.png)
   
