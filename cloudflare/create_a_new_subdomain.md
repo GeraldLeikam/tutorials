@@ -1,6 +1,6 @@
 # Guide -> Create a subdomain with Cloudflare
 
-# Prerequisites
+## Prerequisites
 - A Server with a static IPv4 address
 - A [cloudflare] Account
 ## Step1: Login
