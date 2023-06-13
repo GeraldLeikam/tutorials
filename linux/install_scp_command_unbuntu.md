@@ -1,10 +1,10 @@
 # Guide -> Install scp command on a ubuntu machine
 
 ## Guide Overview
-Dieser Guide zeigt dir wie du das scp Kommando auf einem rechner/server mit ubuntu/debian Bertiebsystem installieren kannst.
+This guide will show you how to install the ```scp``` command on a machine/server running the Ubuntu/Debian operating system.
 
 ## Step1: Update System
-Upadte deine Packtlisten und lade die letzen upgrades herunter: 
+Update your package lists and download the latest upgrades:
 ```bash
 apt update && apt upgrade -y
 ```
@@ -12,4 +12,4 @@ apt update && apt upgrade -y
 ```bash
 apt install -y openssh-client
 ```
-Herzlichen Glückwunsch das kommando scp ist jetzt in diesem system verfügbar
+Congratulations, the ```scp``` command is now available on this system.

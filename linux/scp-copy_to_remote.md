@@ -1,26 +1,26 @@
 # Guide -> Copy Files via scp to a remote host (key authentication)
 
 ## Guide Overview
-Dieser Guide erklärt dir wie du mit scp dateien/ordner auf einen remote Server kopierst. Für dieses Tutorial verwenden wird die Key Authentifizierungs Methode. 
-In dem Szenario für diesen Guide möchten wir eine Datei -> /home/user/Downloads/demo.dat und einen Ordner mit 
-Unterornern -> /home/user/data_to_move/ auf einen remote Server mit der fiktiven ip 178.56.24.12 kopieren. 
+This guide will explain how to use scp to copy files/folders to a remote server. For this tutorial, we will be using the key authentication method.
+
+In the scenario for this guide, we want to copy a file -> /home/user/Downloads/demo.dat, and a folder with subdirectories -> /home/user/data_to_move/, to a remote server with the fictional IP address 178.56.24.12.
 
 ## Step1: Verify scp is installed
-Verfiziere das das scp kommando auf deinem rechner verfügbar ist: 
+Please verify that the scp command is available on your machine by executing the following command:
 ```bash
 which scp
 ```
-Der output des kommandos sollte wie folgend aussehen:
+The output of the command should look like the following:
 ```bash
 /usr/bin/scp
 ```
 If no output is displayed, it means that scp is not installed and needs to be installed first. [You can learn how to install scp here]
 ## Step1: Navigate to source file/directory
-Navigiere zum Speicherort der Datei:
+Please navigate to the location where the file is stored.
 ```bash
 cd /home/user/Downloads/
 ```
-Navgiere zum Speicherotz des Ornders:
+Please navigate to the location where the folder is stored.
 ```bash
 cd /home/user/
 ```
@@ -45,11 +45,12 @@ Local files should be specified using an absolute or relative path, while remote
 - ```-r``` - This option tells scp to copy directories recursively.
 
 Understood the command? Alright, let's proceed with the copying process:
-kopiere datei:
+
+Copy file:
 ```bash
 scp demo.dat yourusername@178.56.24.12:/remote/directory
 ```
-kopiere Ordner
+copy folder:
 ```bash
 scp -r data_to_move remote_username@10.10.0.2:/remote/directory
 ```
