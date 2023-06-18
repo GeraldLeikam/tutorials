@@ -15,3 +15,8 @@ Warte bis die Suche abgeschlossen ist. Dies kann manchmal mehrere Minuten dauern
 Wichtige Updates werden sofort ohne Rückfrage heruntergeladen.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update.png)
+
+Manche Updates benötigen einen neustart des Servers. Warte ab bis alle anderen Updates heruntergeladen und installiert sind.
+Danach klicke auf "Restart now" und warten den neustart des Servers ab.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update_restart_required.png)
