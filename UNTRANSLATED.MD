@@ -1,1 +1,0 @@
-windows/server/2022/update_windows_server.md
