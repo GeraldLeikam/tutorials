@@ -5,5 +5,7 @@ Dieser Guide soll zeigen wie ein Windows Server 2022 Betriebssystem geupdated wi
 Klicke auf die suchleiste in deiner Taskbar und gebe update ein. Danch solltest du im Startmenu den Punkt update finden.
 Klicke auf diesen um zum update Service zu gelangen.
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_go_update.png)
+
 Klicke auf "Check for updates" um nach neuen Aktualisierungen zu suchen.
+
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_check_for_update.png)
