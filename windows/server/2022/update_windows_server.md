@@ -2,7 +2,7 @@
 ## Guide Overview
 Dieser Guide soll zeigen wie ein Windows Server 2022 Betriebssystem geupdated wird.
 ## Needed Time:
-30 bis 60 Minuten
+bis zu 60 Minuten
 ## Special Pro Tipp:
 Besorge dir eine große Tasse Kaffee. Das Update wird dauern. 
 ## Step1: Go to update service
