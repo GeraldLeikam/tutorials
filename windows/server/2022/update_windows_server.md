@@ -35,3 +35,4 @@ heruntergeladen und installiert.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update_finish.png)
 
+Herzlichen Glückwunsch dein Windows Server ist jetzt aktualisiert.
