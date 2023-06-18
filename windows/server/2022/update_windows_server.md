@@ -33,6 +33,9 @@ Nach dem Neustart gehe erneut zum Update Service und klicke erneut auf "Check fo
 Nach dem erneuten suchen sollte ein "You're up to date" zu lesen sein. Sollte dies nicht so werden wahrscheinlich noch erforderliche Updates
 heruntergeladen und installiert.
 
+## Step5: Finish Update
+sollte jetzt ein "You're up to date" zu lesen sein dann sind alle Updates abeschlossen und dein Server auf dem aktuellen Stand
+
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update_finish.png)
 
 Herzlichen Glückwunsch dein Windows Server ist jetzt aktualisiert.
