@@ -1,4 +1,4 @@
-# Guide -> Ändern des Servernamen eines Windows Server 2022 Server
+# Guide -> Windows Server 2022 - Ändern des Servernamen
 ## Guide Overview:
 Dieser Guide zeigt wie der Servername eines Windows Server 2022 geändert wird.
 ## Needed Time:

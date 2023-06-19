@@ -1,4 +1,4 @@
-# Guide -> Disable IPV6 Connection(s) for Server
+# Guide -> Windows Server 2022 - Disable IPV6 Network Connection(s)
 ## Guide Overview
 In diesem Guide wird erklärt wie bei einem Windows Server 2022 die IPV6 Verbindung(en) deaktiviert werden.
 ## Needed Time:

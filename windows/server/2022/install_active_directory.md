@@ -1,4 +1,4 @@
-# Guide -> Install Active Directory on Windows Server 2022
+# Guide -> Windows Server 2022 - Install a Active Directory
 
 ## Guide Overview:
 Dieser Guide erklärt in mehreren Schritten wie ein Active Directory auf einem Windows Server 2022 installiert wird.

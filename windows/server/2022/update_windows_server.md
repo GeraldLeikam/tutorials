@@ -1,4 +1,4 @@
-# Guide -> Update Windows Server 2022
+# Guide -> Windows Server 2022 - Update Windows Server
 ## Guide Overview
 Dieser Guide soll zeigen wie ein Windows Server 2022 Betriebssystem geupdated wird.
 ## Needed Time:
