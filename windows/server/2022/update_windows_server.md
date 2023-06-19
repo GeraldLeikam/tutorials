@@ -28,7 +28,7 @@ Manche Updates benötigen einen neustart des Servers. Warte ab bis alle anderen 
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update_restart_required.png)
 
-Nach dem Neustart gehe erneut zum Update Service und klicke erneut auf "Check for Updates". Auch dieser Check kann mehrere Minuten dauern. Nach dem erneuten suchen sollte ein "You're up to date" zu lesen sein. Sollte dies nicht sein, so werden wahrscheinlich noch erforderliche Updates heruntergeladen und installiert.
+Nach dem Neustart gehe erneut zum Update Service und klicke erneut auf "Check for Updates". Auch dieser Check kann mehrere Minuten dauern. Nach dem erneuten suchen sollte ein "You're up to date" zu lesen sein. Falls nicht, so werden wahrscheinlich noch erforderliche Updates heruntergeladen und installiert.
 
 ## Step5: Finish Update
 sollte jetzt ein "You're up to date" zu lesen sein dann sind alle Updates abeschlossen und dein Server auf dem aktuellen Stand
