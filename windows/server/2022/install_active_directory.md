@@ -11,7 +11,7 @@ ca 45 Minuten
 ## Step2: Installation
 Klicke in der rechten oberen Ecke auf "Manage" und danach auf "Add Roles and Features".
 
-![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/install_ad/windows_server_2022_install_ad_add_roles_and_features.png)
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/install_ad/windows_server_2022_%20install_ad_add_roles_and_features.png)
 
 
 [Update dein System auf den aktuellen Stand]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/update_windows_server.md
