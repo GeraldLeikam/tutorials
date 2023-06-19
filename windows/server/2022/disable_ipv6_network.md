@@ -21,3 +21,11 @@ Wähle das Interface aus bei welchem du IPV6 deaktivieren willst und führe eine
 Klicke danach auf Properties
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_network_connection_properties.png)
+
+Nun wähle die Option "Internet Protocol Version 6 (TCP/IPv6)"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_select_option.png)
+
+und deaktiviere die Option durch abwählen des Kontrollkästchens
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_deselect_option.png)
