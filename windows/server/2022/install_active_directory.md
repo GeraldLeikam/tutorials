@@ -16,4 +16,4 @@ Klicke in der rechten oberen Ecke auf "Manage" und danach auf "Add Roles and Fea
 
 [Update dein System auf den aktuellen Stand]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/update_windows_server.md
 [Deaktiviere für alle Netzwerkverbindungen IPV6]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/disable_ipv6_network.md
-[Ändere den Namen des Servers]: https://
+[Ändere den Namen des Servers]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/change_server_name.md
