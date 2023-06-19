@@ -38,3 +38,7 @@ Wiederhole die bisherigen Schritte für alle Interfaces bei denen du die IPV6 Ko
 Anschliessend schließe das "Network Connections" Fenster und klicke im "Server Manager" auf "Refesh 'Local Server'"
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_refreh_server_manager.png)
+
+Deine Netzwerkverbindung/en im "Sever Manager" unter "Local Server" sollte nun ungefähr so wie hier zu sehen ist aussehen.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_deactivated.png)
