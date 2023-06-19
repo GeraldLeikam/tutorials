@@ -3,7 +3,7 @@ ownCloud/install_kerberos_login.md
 ownCloud/install_owncloud_20.04_quick.md
 ownCloud/install_owncloud_full.md
 ownCloud/upload_a_file_via_webinterface_and_use_it_in_ssh_session.md
-create_a_new_subdomain.md
+cloudflare/create_a_new_subdomain.md
 hetzner/setup_a_cloud_server.md
 let's_encrypt/applying_a_lets_encrypt_certificate.md
 linux/install_scp_command_unbuntu.md
