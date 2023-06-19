@@ -29,3 +29,7 @@ Nun wähle die Option "Internet Protocol Version 6 (TCP/IPv6)"
 und deaktiviere die Option durch abwählen des Kontrollkästchens. Anschließend klicke bitte auf "OK"
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_deselect_option.png)
+
+Schließe das Interface durch einen klick auf 'Close'
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_close_interface.png)
