@@ -33,3 +33,8 @@ und deaktiviere die Option durch abwählen des Kontrollkästchens. Anschließend
 Schließe das Interface durch einen klick auf 'Close'
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_close_interface.png)
+
+Wiederhole die bisherigen Schritte für alle Interfaces bei denen du die IPV6 Konnektivität deaktivieren möchtest.
+Anschliessend schließe das "Network Connections" Fenster und klicke im "Server Manager" auf "Refesh 'Local Server'"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_refreh_server_manager.png)
