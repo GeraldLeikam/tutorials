@@ -1,19 +1,19 @@
-# Guide -> Windows Server 2022 - Disable IPV6 Network Connection(s).
-## Guide Overview.
+# Guide -> Windows Server 2022 - Disable IPV6 Network Connection(s)
+## Guide Overview
 In this guide, instructions will be provided on how to disable IPV6 network connection(s) on a Windows Server 2022.
-## Needed Time: [insert specific time or duration of task].
+## Needed Time:
 About 5 minutes.
-## Step1: Go to Server Manager.
+## Step1: Go to Server Manager
 Go to Server Manager and select on the left side "Local Server".
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6.png)
 
-## Step2: Go to Network Connections.
+## Step2: Go to Network Connections
 If you have multiple interfaces, click on any one. The interface you choose does not matter. If you only have one interface, click on it.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_select_interface.png)
 
-## Step3: Open Interface and disable IPV6.
+## Step3: Open Interface and disable IPV6
 Select the interface you want to disable IPV6 and click twice on it.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/disable_ipv6/windows_server_2022_disable_ipv6_network_connections.png)
