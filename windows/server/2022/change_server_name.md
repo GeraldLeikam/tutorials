@@ -35,4 +35,4 @@ Gehe nach dem neustart wie in Schritt1 beschrieben erneut zu den System Properti
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_verify_change.png)
 
-Sollte dies nicht der Fall sein so wiederhole hier ab Schritt2 alle weiteren Schritte.
+Sollte dies nicht der Fall sein so wiederhole hier ab Schritt2 alle weiteren Schritte an.
