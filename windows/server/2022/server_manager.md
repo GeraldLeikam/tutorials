@@ -1,6 +1,6 @@
 # Guide -> Windows Server 2022 - Der Server Manager
 
-## Guide Übersicht:
+## Guide OverView:
 Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Manager geben.
 
 ## Inhalt:
@@ -9,7 +9,7 @@ Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Ma
 - [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten)
 
 
-## Anleitungen
+## Guides
 
 ### Server Manage über das Startmenü starten
 Solltest du den Server Manager einmal geschossen und diesen jedoch doch benötigen gibt es eine einfachere Methode den Server Manager zu starten, ohne gleich den ganzen Server zu rebooten.
