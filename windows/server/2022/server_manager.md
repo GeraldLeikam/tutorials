@@ -5,9 +5,9 @@ Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Ma
 
 ## Index:
 
-- [Server Manager über das Startmenü starten](#server-manage-über-das-start-menu-starten)
-- [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten)
-- [Den Computernamen ändern](#den-computernamen-ändern)
+- [Server Manager über das Startmenü starten](#guide---server-manage-über-das-startmenü-starten)
+- [Server Manager über die Suchleiste starten](#guide---server-manager-über-die-suchleiste-starten)
+- [Den Computernamen ändern](#guide---den-computernamen-ändern)
 
 ---
 
@@ -33,7 +33,7 @@ Klicke in die Suchleiste und gib "Server Manager" ein darauf hin sollte in den S
 
 ---
 
-### Den Computernamen ändern
+### Guide -> Den Computernamen ändern
 #### Guide Overview:
 Das Ändern des Computernamens kann viele Gründe haben. Möchtest du z.B. ein Active Directory installieren oder einen Rechner einem hinzufügen, ist dies unbedingt notwendig und die Rechner in dem Active Directory irgendwie identifiziert werden müssen und dies am besten mit einem für sich selbst sprechenden Namen geht. Dieser Guide soll zeigen wie einfach es ist mit dem Server Manager den Namen des Servers zu ändern.
 #### Dauer:
