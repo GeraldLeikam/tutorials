@@ -19,4 +19,4 @@ Klicke im "Server Manager" auf Manage und wähle danach im Untermenü den Punkt 
 
 [Deaktiviere IPV6 auf deinem Server]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/disable_ipv6_network.md
 
-[Ändern des Server Namen]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/change_server_name.md
+[Ändern des Server Namen]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager.md
