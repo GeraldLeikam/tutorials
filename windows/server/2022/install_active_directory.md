@@ -1,21 +1,22 @@
-# Guide -> Windows Server 2022 - Install an Active Directory
+# Guide -> Windows Server 2022 - Installieren eines Active Directory
 
-## Guide Overview:
-This guide explains in several steps how an Active Directory is installed on a Windows Server 2022.
-## Needed Time:
-ca 45 Minutes
-## Step1: Preparation
-- [Update your system to the current version.]
-- [Deactivate all network connections IPV6.]
-- [Change the name of the server.]
-## Step2: Installation
-Click on the right upper corner on "Manage" and then on "Add Roles and Features".
+## Guide Übersicht:
+Dieser Guide erklärt in mehreren Schritten die installation eines Active Directory auf einem Windows Server 2022. 
+## Benötigte Zeit:
+ca 60 Minuten
+## Schritt 1: Server Vorbereitungen
+- [Update deinen Server]
+- [Deaktiviere IPV6 auf deinem Server]
+- [Ändern des Server Namen]
+## Step2: Installieren der Rolle "Active Directory Domain Services"
+
+Klicke im "Server Manager" auf Manage und wähle danach im Untermenü den Punkt "Add Roles and Features" aus.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/install_ad/windows_server_2022_%20install_ad_add_roles_and_features.png)
 
 
-[Update your system to the current version.]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/update_windows_server.md
+[Update deinen Server]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/update_windows_server.md
 
-[Deactivate all network connections IPV6.]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/disable_ipv6_network.md
+[Deaktiviere IPV6 auf deinem Server]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/disable_ipv6_network.md
 
-[Change the name of the server.]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/change_server_name.md
+[Ändern des Server Namen]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/change_server_name.md
