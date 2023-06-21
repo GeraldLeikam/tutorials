@@ -9,7 +9,7 @@ Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Ma
 - [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten)
 - [Den Computernamen ändern](#den-computernamen-ändern)
 
---------------------------------------------------------------------------------------
+---
 
 ## Guides
 
@@ -21,6 +21,8 @@ Klicke auf den Windows Start Button und suche im Start Menu nach den Einträgen 
 
 ###### [Inhalt](#Inhalt)
 
+---
+
 ### Server Manager über die Suchleiste starten
 Solltest du den Server Manager einmal geschossen und diesen jedoch doch benötigen gibt es eine einfachere Methode den Server Manager zu starten, ohne gleich den ganzen Server zu rebooten.
 Klicke in die Suchleiste und gib "Server Manager" ein darauf hin sollte in den Suchergebnissen der Server Manager enthalten sein. Sollte hier kein Server Manager enthalten sein so prüfe bitte die Version deines Windows, ob es sich hierbei um eine Windows Server Version handelt.
@@ -28,6 +30,8 @@ Klicke in die Suchleiste und gib "Server Manager" ein darauf hin sollte in den S
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_start_search_bar.png)
 
 ###### [Inhalt](#Inhalt)
+
+---
 
 ### Den Computernamen ändern
 #### Guide Overview:
