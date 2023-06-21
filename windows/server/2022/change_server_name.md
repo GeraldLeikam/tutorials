@@ -17,6 +17,11 @@ Kicke auf den "Change" Button. Gebe danach im Eingabefeld bei "Computer name" de
 
 ## Schritt3: Neustart
 
-Nach dem Ändern des Computer Namen muss der Server neu gestartet werden. Klicke auf "OK" um den neustart durchzuführen.
+Nach dem Ändern des Computer Namen muss der Server neu gestartet werden. Klicke auf "OK".
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_reboot.png)
+
+Anschließend Klicke auf Close
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_close.png)
+
