@@ -1,6 +1,6 @@
 # Guide -> Windows Server 2022 - Der Server Manager
 
-## Guide OverView:
+## Guide Overview:
 Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Manager geben.
 
 ## Inhalt:
