@@ -9,6 +9,8 @@ Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Ma
 - [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten)
 - [Den Computernamen ändern](#den-computernamen-ändern)
 
+--------------------------------------------------------------------------------------
+
 ## Guides
 
 ### Server Manage über das Startmenü starten
