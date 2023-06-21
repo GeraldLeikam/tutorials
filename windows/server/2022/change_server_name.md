@@ -25,3 +25,6 @@ Anschließend Klicke auf Close
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_close.png)
 
+Bestätige die folgende Frage nach einem Neustart mit "Reboot now".
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_reboot_question.png)
