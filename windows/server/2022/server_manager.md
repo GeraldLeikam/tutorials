@@ -15,4 +15,4 @@ Klicke auf den Windows Start Button und suche im Start Menu nach den Einträgen 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_start_start_menu.png)
 
 
-[Server Manager über das Start Menü starten](#server-manage-über-das-start-menu-starten)
+[Server Manager über das Start Menü starten]: (#server-manage-über-das-start-menu-starten)
