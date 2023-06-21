@@ -40,7 +40,7 @@ Das Ändern des Computernamens kann viele Gründe haben. Möchtest du z.B. ein A
 5-10 Minuten
 #### Schritt 1: Gehe zu den System Properties
 
-Sollte des "Server Manager" geschlossen sein so öffne diesen bitte. Solltest du nicht wissen wie, siehe bitte unter [Server Manager über das Startmenü starten](#server-manage-über-das-start-menu-starten) oder [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) nach wie der "Server Manager" geöffnet wird.
+Sollte des "Server Manager" geschlossen sein so öffne diesen bitte. Solltest du nicht wissen wie, siehe bitte unter [Server Manager über das Startmenü starten](#server-manage-über-das-startmenü-starten) oder [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) nach wie der "Server Manager" geöffnet wird.
 
 Im "Server Manager" klicke bitte auf "Local Server" und anschließend auf den blauen aktuellen Computernamen.
 
