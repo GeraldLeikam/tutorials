@@ -1,6 +1,6 @@
-# Ableitungsfaden -> Windows Server 2022 - Das Windows Server Manager Programm
+# Guide -> Windows Server 2022 - Das Server Manager Programm
 
-## Anleitung Übersicht:
+## Guide Übersicht:
 Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Manager geben.
 
 ## Inhalt:
