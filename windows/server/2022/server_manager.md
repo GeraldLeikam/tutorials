@@ -7,7 +7,7 @@ Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Ma
 
 - [Server Manager über das Startmenü starten](#server-manage-über-das-start-menu-starten)
 - [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten)
-
+- [Den Computernamen ändern]
 
 ## Guides
 
@@ -24,5 +24,50 @@ Solltest du den Server Manager einmal geschossen und diesen jedoch doch benötig
 Klicke in die Suchleiste und gib "Server Manager" ein darauf hin sollte in den Suchergebnissen der Server Manager enthalten sein. Sollte hier kein Server Manager enthalten sein so prüfe bitte die Version deines Windows, ob es sich hierbei um eine Windows Server Version handelt.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_start_search_bar.png)
+
+###### [Inhalt](#Inhalt)
+
+### Den Computernamen ändern
+#### Guide Overview:
+Das Ändern des Computernamens kann viele Gründe haben. Möchtest du z.B. ein Active Directory installieren oder einen Rechner einem hinzufügen, ist dies unbedingt notwendig und die Rechner in dem Active Directory irgendwie identifiziert werden müssen und dies am besten mit einem für sich selbst sprechenden Namen geht. Dieser Guide soll zeigen wie einfach es ist mit dem Server Manager den Namen des Servers zu ändern.
+#### Dauer:
+5-10 Minuten
+#### Schritt 1: Gehe zu den System Properties
+
+Sollte des "Server Manager" geschlossen sein so öffne diesen bitte. Solltest du nicht wissen wie, siehe bitte unter [Server Manager über das Startmenü starten](#server-manage-über-das-start-menu-starten) oder [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) nach wie der "Server Manager" geöffnet wird.
+
+Im "Server Manager" klicke bitte auf "Local Server" und anschließend auf den blauen aktuellen Computernamen.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_go_to_system_properties.png)
+
+#### Schritt 2: Ändern des Computernamen
+
+Klicke auf den "Change" Button. Trage in das Eingabefeld unter "Computer name" den neuen Namen des Servers ein. Bestätige die Änderung des Names mit einem Klick auf "OK".
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_change.png)
+
+#### Step 3: Neustart
+
+Nach der Änderung des Computer Names is es sinnvoll den Server neu zu starten damit alle Dienste die den Computer Namen benötigen auch den neuen Computer Namen zur Verfügung haben. 
+
+Bestätige den Hinweis hierfür mit 'OK'
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_reboot.png)
+
+Schließe die "System Properties" durch einen Klick auf "Close" 
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_close.png)
+
+Bestätige den Neustart des Servers mit einem Klick auf "Restart Now" und warte den Neustart des Servers ab.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_reboot_question.png)
+
+#### Step 4: Verifiziere die Änderung
+
+Gehe nach dem Server Neustart nochmals wie in Schritt 1 beschrieben zu den 'System Properties' und prüfe ob im Feld "Full computer name" der von dir gewählte name eingetragen ist. 
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_verify_change.png)
+
+Sollte dies nicht der Fall sein so wiederhole bitte ab Schritt 2 (inklusive diesem) alle weiteren Schritte.
 
 ###### [Inhalt](#Inhalt)
