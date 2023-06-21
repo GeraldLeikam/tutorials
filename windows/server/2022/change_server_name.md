@@ -9,6 +9,14 @@ Klicke im "Server Manager" auf der linken Seite auf "Local Server" und anschlie�
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_go_to_system_properties.png)
 
+## Schritt2: Ändern des Names
+
 Kicke auf den "Change" Button. Gebe danach im Eingabefeld bei "Computer name" den neuen Namen des Servers ein. Bestätige das ganze anschließend mit einem klick auf "OK".
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_change.png)
+
+## Schritt3: Neustart
+
+Nach dem Ändern des Computer Namen muss der Server neu gestartet werden. Klicke auf "OK" um den neustart durchzuführen.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_reboot.png)
