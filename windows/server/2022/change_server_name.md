@@ -28,3 +28,11 @@ Anschließend Klicke auf Close
 Bestätige die folgende Frage nach einem Neustart mit "Reboot now".
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_reboot_question.png)
+
+## Schritt4: Verifizieren der Änderung
+
+Gehe nach dem neustart wie in Schritt1 beschrieben erneut zu den System Properties und vergewissere dich das die Änderung des Cumputernamens erfolreich war. Hiertu sollte im Feld "Full computer name" der von dir vergebene Name stehen. 
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/change_sever_name/windows_server_2022_change_servername_system_properties_verify_change.png)
+
+Sollte dies nicht der Fall sein so wiederhole hier ab Schritt2 alle weiteren Schritte.
