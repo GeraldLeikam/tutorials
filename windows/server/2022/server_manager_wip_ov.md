@@ -95,7 +95,7 @@ Im "Server Manager" klicke bitte auf "Local Server" und anschließend auf den bl
 
 #### Step2: Suche nach Updates
 
-Klicke im Fenster für den Update-Service anschließend auf "Check for updates" um die Suche nach neuen Updates zu starten.
+Klicke im Fenster für den Update-Service anschließend auf "Check for updates" um die Suche nach neuen Updates zu starten. Führe dies auch durch, auch wenn du die Meldung "You're up to date" erscheint.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_check_for_update.png)
 
