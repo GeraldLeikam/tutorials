@@ -8,7 +8,7 @@ Dieser Guide-Sammlung soll dir mehr Informationen über das wohl leistungsstärk
 * [Server Manager über das Startmenü starten](#guide---server-manage-über-das-startmenü-starten)
 * [Server Manager über die Suchleiste starten](#guide---server-manager-über-die-suchleiste-starten)
 * [Den Computernamen ändern](#guide---den-computernamen-ändern)
-*[Den Server aktualisieren](#guide---windows-server-2022---aktualisieren-des-windows-server)
+* [Den Server aktualisieren](#guide---windows-server-2022---aktualisieren-des-windows-server)
 ---
 
 ## Guides
