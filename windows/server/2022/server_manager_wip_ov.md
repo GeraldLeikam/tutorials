@@ -111,7 +111,7 @@ Wichtige Updates werden sofort ohne Zwischenfragen heruntergeladen und installie
 
 Manche Updates benötigen einen Neustart. Warte bist alle laufenden Downloads und Installation von Updates abgeschlossen sind bevor du auf "Restart now" klickst. Ein Restart wegen eines Updates kann mehrere Minuten dauern je nach größe des Updates.
 
-![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update_restart_required.png)
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_update_service_restart_required.png)
 
 Nach dem Neustart gehe wieder wie in Schritt 1 zum "Windows Update-Service" und suche erneut wie in Schritt 2 nach weiteren Updates. Ich manchen Fällen kann es vorkommen das nach dem Neustart bereits weitere Updates automatisch angefangen haben zu downloaden und zu installieren. Warte in diesem Fall den Download und die Installation aller Updates ab. Sollte ein weiterer Neustart benötigt werden so führe auch diesen bitte aus. 
 
