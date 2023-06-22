@@ -8,7 +8,7 @@ Dieser Guide-Sammlung soll dir mehr Informationen über das wohl leistungsstärk
 * [Server Manager über das Startmenü starten](#guide---server-manage-über-das-startmenü-starten)
 * [Server Manager über die Suchleiste starten](#guide---server-manager-über-die-suchleiste-starten)
 * [Den Computernamen ändern](#guide---den-computernamen-ändern)
-
++ [Den Server aktualisieren](#guide---windows-server-2022---aktualisieren-des-windows-server)
 ---
 
 ## Guides
@@ -80,7 +80,7 @@ Sollte dies nicht der Fall sein so wiederhole bitte ab Schritt 2 (inklusive dies
 
 ---
 
-### Guide -> Windows Server 2022 - Update des Windows Server
+### Guide -> Windows Server 2022 - Aktualisieren des Windows Server
 #### Guide Overview
 Dieser Guide beschäftigt sich damit wie man mit dem Server Manager updates für den Windows Server installiert und dadurch das System aktuell und sicher hält.
 #### Dauer:
