@@ -7,7 +7,7 @@ ca 60 Minuten
 ## Schritt 1: Server Vorbereitungen
 - [Update deinen Server]
 - [Deaktiviere IPV6 auf deinem Server]
-- [Ändern des Server Namen]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager.md#guide---change-the-computer-name
+- [Ändern des Server Namen](https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager.md#guide---change-the-computer-name)
 ## Step2: Installieren der Rolle "Active Directory Domain Services"
 
 Klicke im "Server Manager" auf Manage und wähle danach im Untermenü den Punkt "Add Roles and Features" aus.
