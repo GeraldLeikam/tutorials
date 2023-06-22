@@ -119,7 +119,7 @@ Nach dem Neustart gehe wieder wie in Schritt 1 zum "Windows Update-Service" und 
 
 Solltest du nach dem Suchen von Updates die Meldung "You're up to date" erhalten so hast du alle verfügbaren updates installiert.
 
-![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update_finish.png)
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_update_service_update_success.png)
 
 ###### [Index](#Index)
 
