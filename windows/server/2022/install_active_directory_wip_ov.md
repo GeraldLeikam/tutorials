@@ -10,7 +10,7 @@ ca 60 Minuten
 - [Ändern des Server Namen](https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager_wip.md#guide---change-the-computer-name)
 ## Step2: Installieren der Rolle "Active Directory Domain Services"
 
-Klicke im "Server Manager" auf Manage und wähle danach im Untermenü den Punkt "Add Roles and Features" aus.
+Klicke im [Server Manager](https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager_wip.md#guide---windows-server-2022---the-server-manager) auf Manage und wähle danach im Untermenü den Punkt "Add Roles and Features" aus.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/install_ad/windows_server_2022_%20install_ad_add_roles_and_features.png)
 

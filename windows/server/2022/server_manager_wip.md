@@ -8,7 +8,7 @@ This guide collection will provide you with more information about the most powe
 - [Start Server Manager through the Start menu](#guide---start-server-manager-through-the-start-menu)
 - [Start Server Manager through the Search box](#guide---start-server-manager-through-the-search-box)
 - [Change the computer name](#guide---change-the-computer-name)
-
+- [Updaten des Servers](#guide---windows-server-2022---the-server-manager)
 ---
 
 ## Guides:
