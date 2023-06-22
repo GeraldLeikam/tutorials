@@ -151,10 +151,13 @@ Wähle unter "Server Selection" die Option "Select a server from the server pool
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_select_server.png)
 
+Wähle nun die Rolle "Active Directory Domain Services". Klicke hierfür das Kästchen vor dem Rollennamen.
 
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_add_role_active_directory.png)
 
-![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/)
+Bestätige das Hinzufügen der Rolle mit einem Klick auf "Add Features"
 
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_add_role_active_directory_confirm_add.png)
 
 ###### [Index](#Index)
 
