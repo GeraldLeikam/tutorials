@@ -147,6 +147,14 @@ Wähle im nächsten Schritt "Role-based or feature-based installation" und Klick
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_select_install_type.png)
 
+Wähle unter "Server Selection" die Option "Select a server from the server pool" und danach deinen Server aus. Anschließend klicke auf "Next"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_select_server.png)
+
+
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/)
+
 
 ###### [Index](#Index)
 
