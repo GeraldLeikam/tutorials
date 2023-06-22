@@ -103,7 +103,7 @@ Warte bis die Suche abgeschlossen ist. Dies kann in manchen Fällen mehrere Minu
 
 #### Step3: Download und Installation der Updates
 
-Wichtige Updates werden sofort ohne Zwischenfragen heruntergeladen und installiert. Optionale Updates must du mit einem Klick auf "Install" bestätigen.
+Wichtige Updates werden sofort ohne Zwischenfragen heruntergeladen und installiert. Optionale Updates must du mit einem Klick auf "Install" bestätigen. Installiere auf jeden Fall auch alle optionalen Updates, wenn welche verfügbar sind.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_update_service_download_and_install_updates.png)
 
