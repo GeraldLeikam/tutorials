@@ -132,7 +132,21 @@ Solltest du nach dem Suchen von Updates die Meldung "You're up to date" erhalten
 up to 60 minutes.
 #### Step1: Gehe zum "Add Roles and Features Wizard"
 
+Sollte der "Server Manager" geschlossen sein so öffne diesen bitte. Solltest du nicht wissen wie, siehe bitte unter [Server Manager über das Startmenü starten](#server-manage-über-das-startmenü-starten) oder [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) nach wie der "Server Manager" geöffnet wird.
+Klicke auf "Manage" und wähle danach "Add Roles and Features" um zum "Add Roles and Features Wizard" zu gelagen.
+
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_go_to_roles_wizard.png)
+
+#### Step2: Füge die Rolle "Active Directory Domain Services" dem Server hinzu
+
+Klicke auf "Next"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_start.png)
+
+Wähle im nächsten Schritt "Role-based or feature-based installation" und Klicke anschließend auf "Next".
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_select_install_type.png)
+
 
 ###### [Index](#Index)
 
