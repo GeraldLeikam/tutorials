@@ -167,6 +167,10 @@ Für die Installation des Active Directories werden keine weiteren Features ben�
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_server_features.png)
 
+Im Nächsten Fenster bekommen wir noch eine Zusammenfassung zu den "Active Directory Domain Services". Klicke auch hier wieder auf "Next"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_active_directory_information.png)
+
 ###### [Index](#Index)
 
 ---
