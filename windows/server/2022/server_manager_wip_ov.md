@@ -97,7 +97,7 @@ Im "Server Manager" klicke bitte auf "Local Server" und anschließend auf den bl
 
 Klicke im Fenster für den Update-Service anschließend auf "Check for updates" um die Suche nach neuen Updates zu starten. Führe dies auch durch, auch wenn du die Meldung "You're up to date" erscheint.
 
-![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_check_for_update.png)
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_update_service_check_for_updates.png)
 
 Warte bis die Suche abgeschlossen ist. Dies kann in manchen Fällen mehrere Minuten in Anspruch nehmen.
 
@@ -105,7 +105,7 @@ Warte bis die Suche abgeschlossen ist. Dies kann in manchen Fällen mehrere Minu
 
 Wichtige Updates werden sofort ohne Zwischenfragen heruntergeladen und installiert. Optionale Updates must du mit einem Klick auf "Install" bestätigen.
 
-![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update.png)
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_update_service_download_and_install_updates.png)
 
 #### Step4: (Optional) Neustart wenn benötigt
 
