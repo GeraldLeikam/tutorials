@@ -80,7 +80,7 @@ Sollte dies nicht der Fall sein so wiederhole bitte ab Schritt 2 (inklusive dies
 
 ---
 
-### Guide -> Windows Server 2022 - Aktualisieren des Windows Server
+### Guide -> Aktualisieren des Windows Server
 #### Guide Overview
 Dieser Guide beschäftigt sich damit wie man mit dem Server Manager updates für den Windows Server installiert und dadurch das System aktuell und sicher hält.
 #### Dauer:
@@ -120,6 +120,19 @@ Nach dem Neustart gehe wieder wie in Schritt 1 zum "Windows Update-Service" und 
 Solltest du nach dem Suchen von Updates die Meldung "You're up to date" erhalten so hast du alle verfügbaren updates installiert.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_update_service_update_success.png)
+
+###### [Index](#Index)
+
+---
+
+### Guide -> Installieren der Rolle "Active Directory Domain Services"
+#### Guide Overview
+
+#### Dauer:
+up to 60 minutes.
+#### Step1: Gehe zum "Add Roles and Features Wizard"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_go_to_roles_wizard.png)
 
 ###### [Index](#Index)
 
