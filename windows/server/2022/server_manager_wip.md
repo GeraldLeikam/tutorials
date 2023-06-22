@@ -5,10 +5,10 @@ This guide collection will provide you with more information about the most powe
 
 ## Index:
 
-- [Start Server Manager through the Start menu](#guide---server-manage-über-das-startmenü-starten)
-- [Start Server Manager through the Search box](#guide---server-manager-über-die-suchleiste-starten)
-- [Change computer name](#guide---den-computernamen-ändern)
-- [Update the server](#guide---windows-server-2022---aktualisieren-des-windows-server)
+- [Start Server Manager through the Start menu](#guide---start-server-manager-through-the-start-menu)
+- [Start Server Manager through the Search box](#guide---start-server-manager-through-the-search-box)
+- [Change computer name](#guide---change-computer-name)
+- [Update the server](#guide---updating-windows-server)
 ---
 
 ## Guides:
@@ -40,7 +40,7 @@ Changing the computer name can have various reasons. For example, you may want t
 5-10 minutes
 #### Step 1: Go to System Properties
 
-If the "Server Manager" is closed, please open it. If you do not know how, please see [Server Manager über das Startmenü starten](#server-manage-über-das-startmenü-starten) or [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) to find out how the "Server Manager" is opened.
+If the "Server Manager" is closed, please open it. If you do not know how, please see [Server Manager über das Startmenü starten](#guide---start-server-manager-through-the-start-menu) or [Server Manager über die Suchleiste starten](#guide---start-server-manager-through-the-search-box) to find out how the "Server Manager" is opened.
 
 In the "Server Manager", please click on "Local Server" and then on the current computer name.
 
@@ -80,14 +80,14 @@ If this is not the case, please repeat all steps from Step 2 (including this) up
 
 ---
 
-### Guide -> Windows Server 2022 - Updating Windows Server
+### Guide -> Updating Windows Server
 #### Guide Overview
 This guide explains how to install updates for the Windows Server using the Server Manager, ensuring that the system is up-to-date and secure.
 #### Duration
 Up to 60 minutes.
 #### Step 1: Go to the update service
 
-If the "Server Manager" is closed, please open it. If you do not know how, please see [Server Manager über das Startmenü starten](#server-manage-über-das-startmenü-starten) or [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) to find out how the "Server Manager" is opened.
+If the "Server Manager" is closed, please open it. If you do not know how, please see [Server Manager über das Startmenü starten](#guide---start-server-manager-through-the-start-menu) or [Server Manager über die Suchleiste starten](#guide---start-server-manager-through-the-search-box) to find out how the "Server Manager" is opened.
 
 In the "Server Manager", please click on "Local Server" first and then on the blue link "Downloading updates only, using Windows Update". You will now see the "Windows Update Service" in the opening window.
 
