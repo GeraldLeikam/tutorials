@@ -5,9 +5,9 @@ This guide collection will provide you with more information about the most powe
 
 ## Index:
 
-- [Start Server Manager through the Start menu](#guide---server-manage-über-das-startmenü-starten)
-- [Start Server Manager through the Search box](#guide---server-manager-über-die-suchleiste-starten)
-- [Change the computer name](#guide---den-computernamen-ändern)
+- [Start Server Manager through the Start menu](#guide---start-server-manager-through-the-start-menu)
+- [Start Server Manager through the Search box](#guide---start-server-manager-through-the-search-box)
+- [Change the computer name](#guide---change-the-computer-name)
 
 ---
 
@@ -40,7 +40,7 @@ This guide will show you how to easily change the computer name using the Server
 5-10 minutes
 #### Step 1: Go to System Properties
 
-If the "Server Manager" is closed, please open it. If you do not know how, please see [Server Manager über das Startmenü starten](#server-manage-über-das-startmenü-starten) or [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) for instructions on how to open the "Server Manager".
+If the "Server Manager" is closed, please open it. If you do not know how, please see [Start Server Manager through the Start menu](#guide---start-server-manager-through-the-start-menu) or [Start Server Manager through the Search box](#guide---start-server-manager-through-the-search-box) for instructions on how to open the "Server Manager".
 
 In the "Server Manager", please click on "Local Server" and then on the current computer name.
 
