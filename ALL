@@ -9,7 +9,7 @@ let's_encrypt/applying_a_lets_encrypt_certificate.md
 linux/install_scp_command_unbuntu.md
 linux/scp-copy_to_remote.md
 windows/server/2022/disable_ipv6_network.md
-windows/server/2022/install_active_directory.md
+windows/server/2022/install_active_directory_wip_ov.md
 windows/server/2022/update_windows_server.md
-windows/server/2022/server_manager.md
+windows/server/2022/server_manager_wip_ov.md
 windows/install_wsl_on_windows.md
