@@ -88,6 +88,7 @@ up to 60 minutes.
 #### Step1: Gehe zum update service
 
 Sollte des "Server Manager" geschlossen sein so öffne diesen bitte. Solltest du nicht wissen wie, siehe bitte unter [Server Manager über das Startmenü starten](#server-manage-über-das-startmenü-starten) oder [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) nach wie der "Server Manager" geöffnet wird.
+
 Im "Server Manager" klicke bitte auf "Local Server" und anschließend auf den blauen Link "Downloading updates only, using Windows Update". Im sich darauf öffnenden siehst du nun den "Windows Update-Service".
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_go_to_update_service.png)
