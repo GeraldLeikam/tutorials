@@ -1,5 +1,5 @@
 ## All Tutorials
-###### last update 2023-06-21 13:10
+###### last update 2023-06-22 04:11
 
 - [Applying a let's encrypt certificate]
 - [Copy Files via scp to a remote host (key authentication)]
@@ -10,10 +10,9 @@
 - [Installieren einer ownCloud App von einem privaten Github Repository]
 - [Setup a Cloud Server at Hetzner Cloud]
 - [Upload a file via ownCloud web interface and use it in terminal]
-- [Windows Server 2022 - Changing the server name.]
+- [Windows Server 2022 - Der Server Manager]
 - [Windows Server 2022 - Disable IPV6 Network Connection(s)]
 - [Windows Server 2022 - Installieren eines Active Directory]
-- [Windows Server 2022 - Server Manager]
 - [Windows Server 2022 - Update Windows Server.]
 - [install kerberos login on a ownCloud Server]
 - [install ownCloud on a server with Ubuntu 20.04]
@@ -27,10 +26,9 @@
 [Installieren einer ownCloud App von einem privaten Github Repository]: https://github.com/GeraldLeikam/tutorials/blob/master/ownCloud/install_app_from_github_private.md
 [Setup a Cloud Server at Hetzner Cloud]: https://github.com/GeraldLeikam/tutorials/blob/master/hetzner/setup_a_cloud_server.md
 [Upload a file via ownCloud web interface and use it in terminal]: https://github.com/GeraldLeikam/tutorials/blob/master/ownCloud/upload_a_file_via_webinterface_and_use_it_in_ssh_session.md
-[Windows Server 2022 - Changing the server name.]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/change_server_name.md
+[Windows Server 2022 - Der Server Manager]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager_wip_ov.md
 [Windows Server 2022 - Disable IPV6 Network Connection(s)]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/disable_ipv6_network.md
-[Windows Server 2022 - Installieren eines Active Directory]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/install_active_directory.md
-[Windows Server 2022 - Server Manager]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager.md
+[Windows Server 2022 - Installieren eines Active Directory]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/install_active_directory_wip_ov.md
 [Windows Server 2022 - Update Windows Server.]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/update_windows_server.md
 [install kerberos login on a ownCloud Server]: https://github.com/GeraldLeikam/tutorials/blob/master/ownCloud/install_kerberos_login.md
 [install ownCloud on a server with Ubuntu 20.04]: https://github.com/GeraldLeikam/tutorials/blob/master/ownCloud/install_owncloud_20.04_quick.md
