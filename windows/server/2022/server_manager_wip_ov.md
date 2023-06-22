@@ -159,6 +159,14 @@ Bestätige das Hinzufügen der Rolle mit einem Klick auf "Add Features"
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_add_role_active_directory_confirm_add.png)
 
+Klicke auf "Next"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_server_roles_active_directory_finish.png)
+
+Für die Installation des Active Directories werden keine weiteren Features benötigt. Daher können wir hier einfach auf "Next klicken"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_server_features.png)
+
 ###### [Index](#Index)
 
 ---
