@@ -7,7 +7,7 @@ ca 60 Minuten
 ## Schritt 1: Server Vorbereitungen
 - [Update deinen Server](https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager_wip.md#guide---updating-windows-server)
 - [Deaktiviere IPV6 auf deinem Server]
-- [Ändere den Namen des Servers](https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager_wip.md#guide---change-the-computer-name)
+- [Ändere den Namen des Servers](https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager_wip.md#guide---change-computer-name)
 ## Step2: Installieren der Rolle "Active Directory Domain Services"
 
 Klicke im [Server Manager](https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager_wip.md#guide---windows-server-2022---the-server-manager) auf Manage und wähle danach im Untermenü den Punkt "Add Roles and Features" aus.
