@@ -15,8 +15,7 @@ Klicke im [Server Manager](https://github.com/GeraldLeikam/tutorials/blob/master
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/install_ad/windows_server_2022_%20install_ad_add_roles_and_features.png)
 
 
-[Update deinen Server]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/update_windows_server.md
+
 
 [Deaktiviere IPV6 auf deinem Server]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/disable_ipv6_network.md
 
-[Ändern des Server Namen]: https://github.com/GeraldLeikam/tutorials/blob/master/windows/server/2022/server_manager.md
