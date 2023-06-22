@@ -1,7 +1,7 @@
 # Guide -> Windows Server 2022 - Der Server Manager
 
 ## Guide Overview:
-Dieser Guide soll dir mehr Informationen über den Windows Server 2022 Server Manager geben.
+Dieser Guide soll dir mehr Informationen über das wohl leistungsstärkste Tools zur Verwaltung, Wartung und Modifikation deines Windows Server 2022 Servers geben. In dieser Guide-Sammlung kannst du erfahren wie du den Server Manager auf unterschiedliche weise startest und den Namen des Servers änderst. Klicke bitte hierfür im Index auf das gewünschte Thema.    
 
 ## Index:
 
