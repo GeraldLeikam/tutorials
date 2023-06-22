@@ -180,7 +180,7 @@ Warte bis die ausgewählten Rollen und Features installiert sind.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_active_directory_installation.png)
 
-Sobald alles fertig ist, schließe den "Add Roles and Features Wizard" durch einen Klick auf "Close"
+Sobald alles fertig ist, schließe den "Add Roles and Features Wizard" durch einen Klick auf "Close".
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_roles_wizard_active_directory_finish.png)
 
