@@ -77,3 +77,49 @@ Gehe nach dem Server Neustart nochmals wie in Schritt 1 beschrieben zu den 'Syst
 Sollte dies nicht der Fall sein so wiederhole bitte ab Schritt 2 (inklusive diesem) alle weiteren Schritte.
 
 ###### [Index](#Index)
+
+---
+
+### Guide -> Windows Server 2022 - Update des Windows Server
+#### Guide Overview
+Dieser Guide beschäftigt sich damit wie man mit dem Server Manager updates für den Windows Server installiert und dadurch das System aktuell und sicher hält.
+#### Dauer:
+up to 60 minutes.
+#### Step1: Gehe zum update service
+
+Sollte des "Server Manager" geschlossen sein so öffne diesen bitte. Solltest du nicht wissen wie, siehe bitte unter [Server Manager über das Startmenü starten](#server-manage-über-das-startmenü-starten) oder [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) nach wie der "Server Manager" geöffnet wird.
+Im "Server Manager" klicke bitte auf "Local Server" und anschließend auf den blauen Link "Downloading updates only, using Windows Update". Im sich darauf öffnenden siehst du nun den "Windows Update-Service".
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_go_update.png)
+
+#### Step2: Suche nach Updates
+
+Klicke im Fenster für den Update-Service anschließend auf "Check for updates" um die Suche nach neuen Updates zu starten.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_check_for_update.png)
+
+Warte bis die Suche abgeschlossen ist. Dies kann in manchen Fällen mehrere Minuten in Anspruch nehmen.
+
+#### Step3: Download und Installation der Updates
+
+Wichtige Updates werden sofort ohne Zwischenfragen heruntergeladen und installiert. Optionale Updates must du mit einem Klick auf "Install" bestätigen.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update.png)
+
+#### Step4: (Optional) Neustart wenn benötigt
+
+Manche Updates benötigen einen Neustart. Warte bist alle laufenden Downloads und Installation von Updates abgeschlossen sind bevor du auf "Restart now" klickst. Ein Restart wegen eines Updates kann mehrere Minuten dauern je nach größe des Updates.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update_restart_required.png)
+
+Nach dem Neustart gehe wieder wie in Schritt 1 zum "Windows Update-Service" und suche erneut wie in Schritt 2 nach weiteren Updates. Ich manchen Fällen kann es vorkommen das nach dem Neustart bereits weitere Updates automatisch angefangen haben zu downloaden und zu installieren. Warte in diesem Fall den Download und die Installation aller Updates ab. Sollte ein weiterer Neustart benötigt werden so führe auch diesen bitte aus. 
+
+#### Step5: Beende das Update
+
+Solltest du nach dem Suchen von Updates die Meldung "You're up to date" erhalten so hast du alle verfügbaren updates installiert.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/update/windows_server_2022_update_finish.png)
+
+###### [Index](#Index)
+
+---
