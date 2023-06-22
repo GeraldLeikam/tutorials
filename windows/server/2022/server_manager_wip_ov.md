@@ -128,9 +128,9 @@ Solltest du nach dem Suchen von Updates die Meldung "You're up to date" erhalten
 
 ### Guide -> Installieren der Rolle "Active Directory Domain Services"
 #### Guide Overview
-
+Dieser Guide zeigt dir wie die Rolle "Active Directory Domain Services" mit dem "Add Roles and Features Wizard" auf dem Server installierst.
 #### Dauer:
-up to 60 minutes.
+ca 30 Minuten
 #### Step1: Gehe zum "Add Roles and Features Wizard"
 
 Sollte der "Server Manager" geschlossen sein so öffne diesen bitte. Solltest du nicht wissen wie, siehe bitte unter [Server Manager über das Startmenü starten](#server-manage-über-das-startmenü-starten) oder [Server Manager über die Suchleiste starten](#server-manager-über-die-suchleiste-starten) nach wie der "Server Manager" geöffnet wird.
