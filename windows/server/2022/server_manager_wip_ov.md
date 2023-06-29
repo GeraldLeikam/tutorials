@@ -269,3 +269,6 @@ Melde dich nun mit deinem Administrator Benutzer erneut an. In manchen Fällen k
 Nachdem du dich mit deinem "Administrator" Benutzer in der Domain angemeldest hast gehe im "Server Manager" auf "Local Server" und schaue, ob unter dem Namen des Servers deine Domain eingetragen ist.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_verify.png)
+
+
+Der "Domain Controller" ist nun fertig installiert und kann nun Benutzern, Gruppe, Computer, Rechten und Regeln befüllt werden. Es können auch andere Windows Computer der Domain beitreten und von dieser gemanagt werden.
