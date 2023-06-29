@@ -247,3 +247,11 @@ klicke hier einfach auf "Next"
 Im nächsten Fenster kannst du noch einmal alle Einstellungen die gesetzt wurden überprüfen. Sollte alles passen klicke auf "Next" 
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_review_options.png)
+
+#### Step6: Prerequisites Check
+
+Hier werden noch einmal alle Einstellungen die gesetzt wurden auf ihre Richtigkeit geprüft. Ignoriere die gelben "Warnings". Diese haben auf das hoch Stufen des Servers keinen Einfluss. 
+
+Sollten alle Checks erfolgreich abgeschlossen sein, so klicke auf "Install"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_prerequisites_check.png)
