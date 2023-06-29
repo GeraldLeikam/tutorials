@@ -242,4 +242,8 @@ klicke hier einfach auf "Next"
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_paths.png)
 
+#### Step6: Review Options
 
+Im nächsten Fenster kannst du noch einmal alle Einstellungen die gesetzt wurden überprüfen. Sollte alles passen klicke auf "Next" 
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_review_options.png)
