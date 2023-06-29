@@ -207,3 +207,12 @@ Danach klicke auf "Next"
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_deployment_configuration.png)
 
+#### Step3: Domain Controller Options
+
+Vergebe ein sicheres Passwort, notiere es dir und gib es danach in die beiden Felder "Password" und "Confirm password" ein und ein Password für den "Directory Services Restore Mode" (DSRM) zu vergeben.
+
+Der Verzeichnisdienste -Wiederherstellungsmodus (Directory Service Restore Mode) ist eine sichere Boot-Option für Windows-Server-Domänencontroller. DSRM ermöglicht es einem Administrator, eine Active-Directory-Datenbank zu reparieren oder wiederherzustellen. 
+
+Wenn die Binärdateien des Active Directory installiert sind, fordert der Installationsassistent beim Heraufstufen eines Servers zum Domänencontroller den Administrator auf, ein DSRM-Kennwort zu wählen. Dieses Kennwort bietet dem Administrator eine Hintertür in die Datenbank für den Fall, dass später etwas schief geht und eine Wiederherstellung notwendig ist. Der Modus bietet aber keinen Zugriff auf die Domäne oder irgendwelche Serverdienste. Für den Fall, dass Administartoren ein DSRM-Kennwort vergessen, kann es mit dem Kommandozeilen-Tool NTDSUtil geändert werden.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_dsrm.png)
