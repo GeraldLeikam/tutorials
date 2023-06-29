@@ -255,3 +255,9 @@ Hier werden noch einmal alle Einstellungen die gesetzt wurden auf ihre Richtigke
 Sollten alle Checks erfolgreich abgeschlossen sein, so klicke auf "Install"
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_prerequisites_check.png)
+
+
+#### Step7: Installation
+
+Warte bis die Installation abgeschlossen ist. Am Ende der Installation wird der Server neugestarted. Nach dem hochfahren ist der Server ein voller "Active Directory Domain Controller"
+Melde dich nun mit deinem Administrator Benutzer erneut an. In manchen Fällen kann es sein das man die Domain dazu angeben muss. Hier bietet Windows selbst eine sehr gute Hilfe um sich richtig am "Domain Controller" anzumelden.
