@@ -216,3 +216,18 @@ Der Verzeichnisdienste -Wiederherstellungsmodus (Directory Service Restore Mode)
 Wenn die Binärdateien des Active Directory installiert sind, fordert der Installationsassistent beim Heraufstufen eines Servers zum Domänencontroller den Administrator auf, ein DSRM-Kennwort zu wählen. Dieses Kennwort bietet dem Administrator eine Hintertür in die Datenbank für den Fall, dass später etwas schief geht und eine Wiederherstellung notwendig ist. Der Modus bietet aber keinen Zugriff auf die Domäne oder irgendwelche Serverdienste. Für den Fall, dass Administartoren ein DSRM-Kennwort vergessen, kann es mit dem Kommandozeilen-Tool NTDSUtil geändert werden.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_dsrm.png)
+
+#### Step3: DNS Options
+
+Hier müssen wir nichts ändern und können einfach auf next klicken.
+
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_dns_options.png)
+
+#### Step4: Additional Options
+
+Auch hier müssen wir nichts machen. Im Feld "The NetBIOS domain name" sollte der erste teile der domain in Großbuchstaben stehen. Im Falle des Tutorials wo der "root domain name" "kerberos.doku.owncloud.works" ist, sollte nun im Feld "KERBEROS" stehen.
+
+Sollte dies nicht der Fall sein so muss bei der Konfiguration im Vorfeld ein Fehler aufgetreten sein.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_additional_options.png)
