@@ -189,3 +189,21 @@ Jetzt solltest du mit der Konfiguration des Services fortfahren. Da wir hier die
 ###### [Index](#Index)
 
 ---
+
+### Guide -> Promoten des Servers zu einem Active Directory Domain Controller
+#### Guide Overview
+Dieser Guide erklärt wie nach der Installation der Roll "Active Directory Domain Services", der Server zu einem Domaincontroller hochgestuft wird.
+#### Dauer:
+ca 30 Minuten
+#### Step1: Gehe zum "Active Directory Domain Services Configuration Wizard" 
+Klicke rechts oben auf das Flaggen Symbol welches für "Notifications" steht und anschließend auf "Promote this server to a domain controller".
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_start.png)
+
+#### Step2: Deployment Configuration
+
+Wähle im nächsten Fenster "Add a new forest" und gibt deinen gewünschten "root domain name" ein. Im Falle dieses Tutorials is der "root domain name" "kerberos.doku.owncloud.works".
+Danach klicke auf "Next"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_deployment_configuration.png)
+
