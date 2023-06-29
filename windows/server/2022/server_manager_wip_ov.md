@@ -230,4 +230,16 @@ Auch hier müssen wir nichts machen. Im Feld "The NetBIOS domain name" sollte de
 
 Sollte dies nicht der Fall sein so muss bei der Konfiguration im Vorfeld ein Fehler aufgetreten sein.
 
+Auch hier klicken wir wieder auf "Next" wenn alles passt.
+ 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_additional_options.png)
+
+#### Step5: Paths
+
+Sollten die Dateien für Datenbank, Logfile und dem "SYSVOL" geändert werden so muss dies hier gemacht werden. Es wird jedoch empfohlen die voreingestellten Pfade zu nutzen.
+
+klicke hier einfach auf "Next"
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_paths.png)
+
+
