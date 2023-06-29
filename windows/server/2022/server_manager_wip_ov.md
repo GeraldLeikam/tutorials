@@ -259,7 +259,13 @@ Sollten alle Checks erfolgreich abgeschlossen sein, so klicke auf "Install"
 
 #### Step7: Installation
 
-Warte bis die Installation abgeschlossen ist. Am Ende der Installation wird der Server neugestarted. Nach dem hochfahren ist der Server ein voller "Active Directory Domain Controller"
+Warte bis die Installation abgeschlossen ist. Am Ende der Installation wird der Server neugestartet. Nach dem Hochfahren ist der Server ein voller "Active Directory Domain Controller"
 Melde dich nun mit deinem Administrator Benutzer erneut an. In manchen Fällen kann es sein das man die Domain dazu angeben muss. Hier bietet Windows selbst eine sehr gute Hilfe um sich richtig am "Domain Controller" anzumelden.
 
 ![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_installation.png)
+
+#### Step8: Verifizieren
+
+Nachdem du dich mit deinem "Administrator" Benutzer in der Domain angemeldest hast gehe im "Server Manager" auf "Local Server" und schaue, ob unter dem Namen des Servers deine Domain eingetragen ist.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_promote_ad_verify.png)
