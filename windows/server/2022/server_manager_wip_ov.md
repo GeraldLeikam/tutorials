@@ -272,3 +272,22 @@ Nachdem du dich mit deinem "Administrator" Benutzer in der Domain angemeldest ha
 
 
 Der "Domain Controller" ist nun fertig installiert und kann nun Benutzern, Gruppe, Computer, Rechten und Regeln befüllt werden. Es können auch andere Windows Computer der Domain beitreten und von dieser gemanagt werden.
+
+###### [Index](#Index)
+
+---
+
+### Guide -> Hinzufügen eines Benutzers zu einem Active Directory
+#### Guide Overview
+Dieser Guide erklärt wie man einen Benutzer einem Active Directory hinzufügt und konfiguriert.
+#### Erklärung
+Die in diesem Guide gezeigte Struktur der Benutzer und Gruppen ist ***optional***. Ich bevorzuge diese Variante, da ich damit am besten den Überblick über die Benutzer und Gruppen innerhalb des Active Directories behalten kann.
+Alle Benutzer und Gruppen können ohne Probleme in die schon vorhandenen Elemente integriert werden.  
+#### Dauer:
+ca 5 Minuten
+#### Step1: Öffnen des "Active Directory Users and Computers" Tools
+Klicke auf Tools und wähle danach "Active Directory Users and Computers" aus.
+
+![image](https://github.com/GeraldLeikam/tutorials/blob/master/images/windows/server/server_manager/windows_server_2022_server_manager_add_user_start.png)
+
+#### Step2: Erstelle Benutzer
